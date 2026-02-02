@@ -41,7 +41,7 @@ st.set_page_config(
 st.title("Research Profile and Result Outputs")
 
 st.markdown("### XP Nabani")
-st.markdown("**Research Field:** Aquatic Ecology and Ecophysiology")
+st.markdown("**Research Field:** A postgraduate student in the field of Aquatic Ecology and Ecophysiology")
 
 st.markdown("""
 **About researcher and research interests**  
@@ -338,3 +338,4 @@ st.success("Analysis complete.")
 # ==================================================
 st.markdown("---")
 st.write("© 2026 XP Nabani | Email: nabanixp@gmail.com | LinkedIn: https://www.linkedin.com/in/xolani-prince-nabani-9a33b2112/")
+
